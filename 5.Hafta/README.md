@@ -10,7 +10,7 @@
 | .) | -- Sunu tamamen bitirilmedi -- |
 | .) | -- Sununun son sayfasındaki ödev verildi -- |
 
-Ödev çözümü eklendi, doğruluğu kesin değildir. Detaylı çözüm için 'Odev_cozum.pdf' belgesini incelemelisiniz. 
+Ödev çözümü eklendi, çözüm doğrudur. Detaylı çözüm için 'Odev_cozum.pdf' belgesini incelemelisiniz.
 <details>
   
   ![ID3_Algorithm_Tree_Structure](https://github.com/user-attachments/assets/9b910f5f-81f5-482a-b48d-27fb5d14245d)
